@@ -50,7 +50,7 @@ export default function ForgotPassword() {
     setIsLoading(true);
     
     try {
-      const response = await fetch("http://localhost:5000/api/users/forgot-password", {
+      const response = await fetch("https://homematch-ai.onrender.com/api/users/forgot-password", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
