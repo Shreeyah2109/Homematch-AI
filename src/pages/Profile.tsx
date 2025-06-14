@@ -30,7 +30,7 @@ export default function Profile() {
           throw new Error('No authentication token');
         }
 
-        const response = await fetch('http://localhost:5000/api/users/profile', {
+        const response = await fetch('https://homematch-ai.onrender.com/api/users/profile', {
           headers: {
             'x-auth-token': token
           }
