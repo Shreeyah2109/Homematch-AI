@@ -2,7 +2,7 @@
 import React, { createContext, useContext, useState, useEffect } from 'react';
 
 // Define API URL
-const API_URL = 'http://localhost:5000/api';
+const API_URL = 'https://homematch-ai.onrender.com/api';
 
 // Define user types with facilities
 export interface UserPreferences {
