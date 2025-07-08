@@ -394,7 +394,7 @@ const mockProperties: Property[] = [
     bedrooms: 4,
     bathrooms: 4.5,
     area: 5200,
-    images: ['https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bHV4dXJ5JTIwaG9tZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60'],
+    images: ['/images/Ahmedabad 1.webp'],
     features: ['Golf course views', 'Private pool', 'Home automation', 'Home theater', 'Wine cellar', 'Outdoor kitchen'],
     listed: true,
     listedAt: new Date('2023-09-01'),
