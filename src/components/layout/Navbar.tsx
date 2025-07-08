@@ -46,7 +46,7 @@ export default function Navbar() {
       <div className="container mx-auto flex items-center justify-between">
         <div className="flex items-center">
           <Link to="/" className="text-2xl font-bold text-primary">
-            PropertyMatch AI
+            HomeMatch AI
           </Link>
         </div>
 
