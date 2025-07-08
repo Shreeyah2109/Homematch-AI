@@ -124,24 +124,24 @@ export default function About() {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
             {[
               {
-                name: "Arjun Sharma",
+                name: "Sherrya Holikatti",
                 role: "Founder & CEO",
-                image: "https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8aW5kaWFuJTIwYnVzaW5lc3NtYW58ZW58MHwyfDB8fHww&auto=format&fit=crop&w=500&q=60",
+                image: "/woman.png",
               },
               {
-                name: "Priya Patel",
+                name: "Yashraj Kalshetti",
                 role: "Chief Technology Officer",
-                image: "https://images.unsplash.com/photo-1534751516642-a1af1ef26a56?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8aW5kaWFuJTIwdGVjaHxlbnwwfDJ8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+                image: "/man.png",
               },
               {
-                name: "Vikram Malhotra",
+                name: "Urjeeta Kasabe",
                 role: "Head of Real Estate Partnerships",
-                image: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGluZGlhbiUyMGJ1c2luZXNzbWFufGVufDB8MnwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                image: "/woman.png",
               },
               {
-                name: "Anjali Reddy",
+                name: "Amareswar Kore",
                 role: "Lead Data Scientist",
-                image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGluZGlhbiUyMHdvbWFuJTIwcHJvZmVzc2lvbmFsfGVufDB8MnwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                image: "man.jpg",
               }
             ].map((member, i) => (
               <div key={i} className="text-center">
