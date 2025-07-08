@@ -141,7 +141,7 @@ export default function About() {
               {
                 name: "Amareswar Kore",
                 role: "Lead Data Scientist",
-                image: "man.jpg",
+                image: "/man.png",
               }
             ].map((member, i) => (
               <div key={i} className="text-center">
