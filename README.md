@@ -12,10 +12,11 @@ HomeMatch AI is a full-stack web app that recommends properties using an **AI-dr
 ## 👩‍💻 My Contributions
 This was a **team project**.  
 My contributions included:  
-- Backend development with **Node.js & Express**  
-- Designing MongoDB schema for property management  
-- Integrating React.js frontend with backend APIs  
-- Implementing chatbot logic for property suggestions  
+-Building clean, responsive UI components for property listings and dashboards
+-Integrating frontend with backend APIs for real-time data display
+-Implementing AI chatbot interface for interactive user guidance
+-Enhancing user experience across the platform, including login, search, and property browsing
+-Ensuring a consistent design system across pages and components
 
 ## 🚀 Tech Stack
 - **Frontend:** React.js  
